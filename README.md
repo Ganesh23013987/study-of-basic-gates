@@ -90,13 +90,16 @@ endmodule
 
 
 **RTL realization Output:** 
-<img width="409" alt="logic_gate input" src="https://github.com/Ganesh23013987/study-of-basic-gates/assets/147473768/8bc619e6-d4bc-4d10-8526-b40b0b34bb70">
+
+<img width="782" alt="logic gate circuit diagram" src="https://github.com/Ganesh23013987/study-of-basic-gates/assets/147473768/dabbdbe1-b2d4-4194-841d-1bef4a8b1528">
 
 
 **RTL**
+
 ![logic_gate](https://github.com/Ganesh23013987/study-of-basic-gates/assets/147473768/a5d8e89b-de19-458c-a957-20259b3092ab)
 
 
 **Result:**
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
